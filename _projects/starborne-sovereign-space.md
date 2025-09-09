@@ -18,6 +18,7 @@ Starborne: Sovereign Space is a free PC Space MMORTS game set in a rich Sci-Fi w
 - **Platform:** PC
 - **Release date:** 2020 (beta)
 - **Duration:** 1,5 years
+- **Website:** [Starborne: Sovereign Space](https://starborne.com/sovereign-space)
 
 {% include embed/youtube.html id='_k-Jxhk5WrM' %}
 
@@ -27,10 +28,11 @@ My involvement with the project officially started in August 2020 when, after si
 Then I was hired as a full-time developer in September 2021, mostly for support and maintenance, as the rest of the tech team had moved on working on the new title Starborne: Frontiers. In collaboration with the game designer, we worked on fixing major bugs and design oversight, as well as introducing new mechanics and new maps. At the end of my first month, we were already releasing a first small patch that was solving some of the most pressing issues.
 
 ### Optimizations
+
 My most notable contribution was some serious optimizations of the game, specifically on two panels: Movements and Fleets. Both had acquired a terrible reputation as they constantly caused the game to stop responding and crash, so much so that the players made countless memes about it.
 
-![Not Responding Meme](/assets/img/projects/sovereign-space/meme.gif){: .left } 	
-![Not Responding More Meme](/assets/img/projects/sovereign-space/meme.png){: .right }
+![Not Responding Meme](/assets/img/projects/sovereign-space/meme.gif) {% comment %} ![Not Responding More Meme](/assets/img/projects/sovereign-space/meme.png){: width="50%" } {% endcomment %}
+_Please enjoy the meme!_
 
 Mostly the Fleet panel was a massive problem, as it contained a lot of game objects, and would entirely refresh every time the player took an action in-game. Reducing the refreshes to only the elements that needed to be, and only when necessary, helped tremendously. Then it was a matter of simplifying the design.
 
