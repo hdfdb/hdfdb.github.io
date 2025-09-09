@@ -7,6 +7,9 @@ image:
 order: 1
 ---
 
+![Starborne: Sovereign Space Logo](assets/img/projects/sovereign-space-logo.png)
+_Starborne: Sovereign Space_
+
 Starborne: Sovereign Space is a free PC Space MMORTS game set in a rich Sci-Fi world. Build and expand your empire, fight and forge alliances on a huge seamless strategic map.
 
 - **Genre:** MMORTS, 4X
@@ -14,8 +17,7 @@ Starborne: Sovereign Space is a free PC Space MMORTS game set in a rich Sci-Fi w
 - **Release date:** 2020 (beta)
 - **Duration:** 1,5 years
 
-![Starborne: Sovereign Space Logo](assets/img/projects/sovereign-space-logo.png)
-_Starborne: Sovereign Space_
+{% include embed/youtube.html id='_k-Jxhk5WrM' %}
 
 ## Notable Contributions
 My involvement with the project officially started in August 2020 when, after significant contributions to the community, I was recruited as a part-time community manager for the game.

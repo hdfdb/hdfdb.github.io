@@ -7,6 +7,9 @@ image:
 order: 2
 ---
 
+![Starborne: Frontiers Logo](assets/img/projects/frontiers-logo.png)
+_Starborne: Frontiers_
+
 Starborne: Frontiers is a free-to-play tactical autobattler with hundreds of unique ships. Form your fleet, customize it with a variety of equipment, and use strategy to create the perfect battlefield formation. Take on bounties, engage in the PvP arena, and bring order to the Frontier.
 
 - **Genre:** auto-battler strategy
@@ -14,5 +17,4 @@ Starborne: Frontiers is a free-to-play tactical autobattler with hundreds of uni
 - **Release date:** 2022 (beta), 2024 (1.0)
 - **Duration:** 3,5 years
 
-![Starborne: Frontiers Logo](assets/img/projects/frontiers-logo.png)
-_Starborne: Frontiers Space_
+{% include embed/youtube.html id='gUfEq3QFRqo' %}
