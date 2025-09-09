@@ -1,12 +1,12 @@
 ---
 title: "Starborne: Sovereign Space"
 description: "A free PC Space MMORTS game set in a rich Sci-Fi world."
-categories: [Game]
+categories: [Projects, Game]
+permalink: /projects/starborne-sovereign-space/
 image:
   path: /assets/img/projects/sovereign-space-logo.png
   alt: "Starborne: Sovereign Space Logo"
 order: 1
-toc: true
 ---
 
 ![Starborne: Sovereign Space Logo](/assets/img/projects/sovereign-space-logo.png)

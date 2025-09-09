@@ -1,7 +1,8 @@
 ---
 title: "Starborne: Frontiers"
 description: "A free-to-play tactical autobattler with hundreds of unique ships."
-categories: [Game]
+categories: [Projects, Game]
+permalink: /projects/starborne-frontiers/
 image:
   path: /assets/img/projects/frontiers-logo.png
   alt: "Starborne: Frontiers Logo"
