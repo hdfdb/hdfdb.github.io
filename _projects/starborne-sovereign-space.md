@@ -25,10 +25,10 @@ Then I was hired as a full-time developer in September 2021, mostly for support 
 ### Optimizations
 My most notable contribution was some serious optimizations of the game, specifically on two panels: Movements and Fleets. Both had acquired a terrible reputation as they constantly caused the game to stop responding and crash, so much so that the players made countless memes about it.
 
-![Not Responding Meme](/assets/img/sample/mockup.png){: .left } 	
-![Not Responding More Meme](/assets/img/sample/mockup.png){: .right }
+![Not Responding Meme](/assets/img/projects/sovereign-space/meme.gif){: .left } 	
+![Not Responding More Meme](/assets/img/projects/sovereign-space/meme.png){: .right }
 
 Mostly the Fleet panel was a massive problem, as it contained a lot of game objects, and would entirely refresh every time the player took an action in-game. Reducing the refreshes to only the elements that needed to be, and only when necessary, helped tremendously. Then it was a matter of simplifying the design.
 
-![The Fleet Panel](/assets/img/sample/mockup.png)
+![The Fleet Panel](/assets/img/projects/sovereign-space/fleet-panel.png)
 _The fleet panel_
