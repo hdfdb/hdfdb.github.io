@@ -1,13 +1,15 @@
 ---
 title: "Starborne: Sovereign Space"
-description: Description here.
+description: "A free PC Space MMORTS game set in a rich Sci-Fi world."
+categories: [Game]
 image:
-  path: assets/img/projects/sovereign-space-logo.png
+  path: /assets/img/projects/sovereign-space-logo.png
   alt: "Starborne: Sovereign Space Logo"
 order: 1
+toc: true
 ---
 
-![Starborne: Sovereign Space Logo](assets/img/projects/sovereign-space-logo.png)
+![Starborne: Sovereign Space Logo](/assets/img/projects/sovereign-space-logo.png)
 _Starborne: Sovereign Space_
 
 Starborne: Sovereign Space is a free PC Space MMORTS game set in a rich Sci-Fi world. Build and expand your empire, fight and forge alliances on a huge seamless strategic map.
